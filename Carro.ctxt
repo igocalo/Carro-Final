@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Carro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Carro\ here.\r\n\ \r\n\ @author\ (Igocalo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Carro()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Carro\r\n
+comment10.params=pos
+comment10.target=void\ ocuparLugar(int)
+comment2.params=newColor\ newGalones\ newEncendido
+comment2.target=Carro(java.lang.String,\ double,\ boolean)
+comment3.params=newColor
+comment3.target=void\ setColor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=newGalones
+comment5.target=void\ setGalones(double)
+comment6.params=
+comment6.target=double\ getGalones()
+comment7.params=newEncendido
+comment7.target=void\ setEncendido(boolean)
+comment8.params=
+comment8.target=boolean\ isEncendido()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
